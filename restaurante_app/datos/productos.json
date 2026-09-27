@@ -1,0 +1,58 @@
+[
+    {
+        "codigo": "M001",
+        "nombre": "Ceviche de Camaron",
+        "categoria": "Entradas",
+        "precio": 8.5,
+        "stock": 18
+    },
+    {
+        "codigo": "M002",
+        "nombre": "Camarones Apanados",
+        "categoria": "Platos Fuertes",
+        "precio": 12.0,
+        "stock": 12
+    },
+    {
+        "codigo": "M003",
+        "nombre": "Langostinos a la Plancha",
+        "categoria": "Platos Fuertes",
+        "precio": 18.0,
+        "stock": 9
+    },
+    {
+        "codigo": "M004",
+        "nombre": "Cangrejo al Ajillo",
+        "categoria": "Platos Fuertes",
+        "precio": 22.5,
+        "stock": 6
+    },
+    {
+        "codigo": "M005",
+        "nombre": "Sopa Marinera",
+        "categoria": "Sopas",
+        "precio": 9.0,
+        "stock": 12
+    },
+    {
+        "codigo": "M006",
+        "nombre": "Pulpo al Olivo",
+        "categoria": "Entradas",
+        "precio": 14.0,
+        "stock": 6
+    },
+    {
+        "codigo": "B001",
+        "nombre": "Limonada",
+        "categoria": "Bebidas",
+        "precio": 3.0,
+        "stock": 30
+    },
+    {
+        "codigo": "B002",
+        "nombre": "Cerveza Artesanal",
+        "categoria": "Bebidas",
+        "precio": 4.5,
+        "stock": 21
+    }
+]

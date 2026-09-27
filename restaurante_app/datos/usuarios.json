@@ -1,0 +1,20 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Maria Fernanda Lopez",
+        "correo": "mflopez@gmail.com",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "Carlos Andres Vega",
+        "correo": "cvega@hotmail.com",
+        "contrasena": "5678"
+    },
+    {
+        "identificacion": "U003",
+        "nombre": "Ana Sofia Torres",
+        "correo": "asofia.torres@yahoo.com",
+        "contrasena": "clave3"
+    }
+]

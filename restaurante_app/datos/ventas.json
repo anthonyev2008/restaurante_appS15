@@ -1,0 +1,29 @@
+[
+    {
+        "identificador": "V0001",
+        "usuario_identificacion": "U001",
+        "producto_codigo": "M001",
+        "cantidad": 1,
+        "precio_unitario": 8.5,
+        "total": 8.5,
+        "fecha": "2026-09-26 22:22:19"
+    },
+    {
+        "identificador": "V0002",
+        "usuario_identificacion": "U001",
+        "producto_codigo": "B001",
+        "cantidad": 1,
+        "precio_unitario": 3.0,
+        "total": 3.0,
+        "fecha": "2026-09-26 22:22:40"
+    },
+    {
+        "identificador": "V0003",
+        "usuario_identificacion": "U001",
+        "producto_codigo": "B001",
+        "cantidad": 1,
+        "precio_unitario": 3.0,
+        "total": 3.0,
+        "fecha": "2026-09-26 22:23:26"
+    }
+]
